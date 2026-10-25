@@ -1,0 +1,9 @@
+{
+  "name": "next-level-fitness-tracker",
+  "version": "2.3.0",
+  "private": true,
+  "description": "Next Level Fitness Tracker: responsive UI, local-first data, Supabase Auth and cloud sync (no paid third-party APIs)",
+  "scripts": {
+    "serve": "python -m http.server 8000"
+  }
+}
